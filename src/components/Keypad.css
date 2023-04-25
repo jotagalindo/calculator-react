@@ -1,0 +1,28 @@
+button {
+    width: 3em;
+    height: 3em;
+    font-size: 1.5em;
+    border: none;
+    border-radius: 2em;
+    margin: 0.3em;
+  }
+  
+button:hover {
+    cursor: pointer;
+}
+
+.buttons {
+    background-color: black;
+    border-radius: 0rem 0rem 1rem 1rem;
+    padding: 1em;
+}
+
+.orange {
+    color: white;
+    background-color: #FF9500;
+}
+
+.grey {
+    color: white;
+    background-color: #505050;
+}
